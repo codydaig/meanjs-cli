@@ -1,0 +1,22 @@
+{
+  "name": "meanjs-cli",
+  "version": "0.0.1",
+  "description": "Command Line Interface for the MEAN.JS boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "bemean": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codydaig/meanjs-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codydaig/meanjs-cli/issues"
+  },
+  "homepage": "https://github.com/codydaig/meanjs-cli#readme"
+}
